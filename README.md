@@ -1,11 +1,12 @@
 # Ryzo — Claude Code plugin marketplace
 
-Ryzo's open-source AI-native **operating systems** for Claude Code — the GTM & RevOps pipelines we run, packaged as installable plugins.
+Ryzo's open-source AI-native **operating systems** for Claude Code — the GTM, RevOps & paid-ads playbooks we run, packaged as installable plugins.
 
 ```
 /plugin marketplace add vibehackerman/ryzo
-/plugin install outbound-os@ryzo     # cold-outbound pipeline
-/plugin install revops-os@ryzo       # RevOps operating system (16 skills)
+/plugin install outbound-os@ryzo       # cold-outbound pipeline
+/plugin install revops-os@ryzo         # RevOps operating system (16 skills)
+/plugin install performance-os@ryzo    # paid-ads operating system (14 skills)
 ```
 
 ## Plugins
@@ -14,7 +15,8 @@ Ryzo's open-source AI-native **operating systems** for Claude Code — the GTM &
 |---|---|
 | [**outbound-os**](https://github.com/vibehackerman/outbound-os) | The AI-native cold-outbound pipeline — company context → research → list → enrich → tier → email → send. |
 | [**revops-os**](https://github.com/vibehackerman/revops-os) | Ryzo's RevOps operating system — 16 skills: lifecycle, scoring, routing, pipeline, automation, deal desk, data hygiene, dashboards, attribution, forecasting, + a delivery workflow. |
+| [**performance-os**](https://github.com/vibehackerman/performance-os) | Ryzo's paid-ads operating system — 14 skills across Google, Meta & LinkedIn: platform playbooks, copywriting, conversion tracking, optimization, A/B testing, bidding, budget, creative, audit, reporting. |
 
-*PerformanceOS and a BusinessOS umbrella are on the roadmap.*
+*A BusinessOS umbrella is on the roadmap.*
 
 Built by [Ryzo](https://ryzo.nl) — the AI-native GTM & RevOps agency. MIT licensed.
