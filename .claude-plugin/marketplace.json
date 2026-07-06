@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ryzo",
+  "description": "Ryzo's open-source AI-native GTM & RevOps operating systems for Claude Code.",
+  "owner": { "name": "Ryzo", "url": "https://ryzo.nl" },
+  "plugins": [
+    { "name": "outbound-os", "description": "The AI-native cold-outbound pipeline Ryzo runs on.",
+      "author": { "name": "Ryzo" }, "category": "productivity",
+      "source": { "source": "github", "repo": "vibehackerman/outbound-os" },
+      "homepage": "https://github.com/vibehackerman/outbound-os" },
+    { "name": "revops-os", "description": "Ryzo's RevOps operating system — 16 skills.",
+      "author": { "name": "Ryzo" }, "category": "productivity",
+      "source": { "source": "github", "repo": "vibehackerman/revops-os" },
+      "homepage": "https://github.com/vibehackerman/revops-os" }
+  ]
+}
