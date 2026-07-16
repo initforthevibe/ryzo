@@ -22,7 +22,7 @@
     },
     {
       "name": "revops-os",
-      "description": "Ryzo's RevOps operating system \u2014 16 skills.",
+      "description": "Ryzo's RevOps operating system — 16 skills.",
       "author": {
         "name": "Ryzo"
       },
@@ -35,7 +35,7 @@
     },
     {
       "name": "performance-os",
-      "description": "Ryzo's paid-ads operating system \u2014 Google, Meta & LinkedIn.",
+      "description": "Ryzo's paid-ads operating system — Google, Meta & LinkedIn.",
       "author": {
         "name": "Ryzo"
       },
@@ -45,6 +45,45 @@
         "repo": "initforthevibe/performance-os"
       },
       "homepage": "https://github.com/initforthevibe/performance-os"
+    },
+    {
+      "name": "fundraise-os",
+      "description": "Ryzo's fundraising operating system — LP and VC raise tracks.",
+      "author": {
+        "name": "Ryzo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "initforthevibe/fundraise-os"
+      },
+      "homepage": "https://github.com/initforthevibe/fundraise-os"
+    },
+    {
+      "name": "conversion-os",
+      "description": "Ryzo's CRO & landing-page operating system.",
+      "author": {
+        "name": "Ryzo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "initforthevibe/conversion-os"
+      },
+      "homepage": "https://github.com/initforthevibe/conversion-os"
+    },
+    {
+      "name": "community-os",
+      "description": "Ryzo's community-building operating system.",
+      "author": {
+        "name": "Ryzo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "initforthevibe/community-os"
+      },
+      "homepage": "https://github.com/initforthevibe/community-os"
     }
   ]
 }
